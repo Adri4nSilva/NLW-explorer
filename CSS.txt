@@ -1,0 +1,38 @@
+declaração: pedaço de código que irá ditar as propiedades e valores a serem aplicadas a um elemento HTML
+
+Sintaxe: Seletor, chave (abre), propiedade, dois pontos, valor, ponto e vírgula, chave(fecha)
+body
+{ 
+    background: red;
+}
+------------------------------------------------
+cascata: Quando há 2 (ou mais) declarações a última será mais relevante
+body
+{
+    background: red;
+}
+body
+{
+    background: blue;
+}
+------------------------------------------------
+Specificity
+Especificidade: Cada seletor tem um peso e a soma dos pesos, será levada em conta para que determinada declaração seja mais específica
+
+#id
+{
+    /* peso 100 */
+}
+
+.class
+{
+    /* peso 10 */
+}
+
+element
+{
+    /* peso 1 */
+}
+A cascata perde prioridade e é priorizado a especificidade da declaração
+------------------------------------------------
+display - visualização das caixas no HTML

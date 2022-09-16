@@ -1,0 +1,8 @@
+header - especificar o cabeçalho, introdução do meu site
+div - tag generica, serve pra ser utilizado no css/js
+
+
+target = _blank - vai abrir um link pra uma nova aba
+a - referecia pra link
+ul - lista
+li - filho da lista
