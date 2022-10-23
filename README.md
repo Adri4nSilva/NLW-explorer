@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[clique aqui para acessar](https://Adri4nSilva.github.io/NLW-explorer)
+[clique aqui para acessar](https://adri4nsilva.github.io/NLW-explorer/)
 
 ## 🛠 Tecnologias
 - HTML
